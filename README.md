@@ -1,6 +1,6 @@
 # Bond-pricer
 
-This is a simple application to calulate **Bond Price** and deep discount bonds or **zero-coupon bonds**
+This is a simple application to calculate **Bond Price** and deep discount bonds or **zero-coupon bonds**
 
 
  ![image](https://user-images.githubusercontent.com/93584728/211191184-300172a4-67b0-42dd-b0bd-367416d8c40e.png)
